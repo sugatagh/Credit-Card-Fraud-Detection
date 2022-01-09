@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection
+The objective of the project is to classify credit card transactions as authentic or fraudulent. To be precise, given data on time, amount and a set of PCA-transformed features for a particular transaction, our goal is to correctly classify the transaction as authentic or fraudulent. We explore the data extensively and employ different techniques to build classification models, which are compared through various evaluation metrics.
